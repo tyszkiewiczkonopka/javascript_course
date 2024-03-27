@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "hello-world.js",
+  "type": "module",
   "scripts": {
     "hello": "node hello-world.js",
     "bye": "node bye-world.js",
