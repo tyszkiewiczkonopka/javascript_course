@@ -10,5 +10,11 @@
     "test": "node test-world.js"
   },
   "author": "magdalena",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
+  },
+  "dependencies": {
+    "chai": "^5.1.0"
+  }
 }
